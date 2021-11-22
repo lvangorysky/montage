@@ -5,9 +5,8 @@
  * 数组摆动问题
  */
  var wiggleSort = function(nums) {
-    // return nums
     for (let i=0;i<nums.length;i++) {
-        nums[i]
+
     }
 };
 
